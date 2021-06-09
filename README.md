@@ -695,3 +695,6 @@ Thank you to our wonderful friend Ania Kubow for producing the Netflix clone. If
 While we focused on getting you up and running to production with AstraDB and Netlify, Ania's video will dig into more details on the app itself. Check it out to dig in more.
 
 [Ania's Netflix Video](https://www.youtube.com/watch?v=g8COh40v2jU)
+
+
+> https://xenodochial-kare-88e319.netlify.app
